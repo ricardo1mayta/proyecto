@@ -1,0 +1,10 @@
+[20-Aug-2017 02:02:56] PHP Parse error:  syntax error, unexpected '.' in /home/perucell/public_html/sissmas/Vistas/cobranzas/imprimirf.php on line 61
+[20-Aug-2017 02:09:02] PHP Parse error:  syntax error, unexpected ',' in /home/perucell/public_html/sissmas/Vistas/cobranzas/imprimirf.php on line 76
+[20-Aug-2017 02:17:25] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/perucell/public_html/sissmas/Vistas/cobranzas/imprimirf.php on line 76
+[19-Aug-2017 21:48:54] PHP Fatal error:  Call to undefined function convertirnumero() in /home/perucell/public_html/sissmas/Vistas/cobranzas/imprimirf.php on line 137
+[20-Aug-2017 03:01:19] PHP Parse error:  syntax error, unexpected '}' in /home/perucell/public_html/sissmas/Vistas/cobranzas/imprimirf.php on line 133
+[20-Aug-2017 03:01:23] PHP Parse error:  syntax error, unexpected '}' in /home/perucell/public_html/sissmas/Vistas/cobranzas/imprimirf.php on line 133
+[20-Aug-2017 04:50:44] PHP Parse error:  syntax error, unexpected ';' in /home/perucell/public_html/sissmas/Vistas/cobranzas/imprimirf.php on line 138
+[20-Aug-2017 04:51:26] PHP Parse error:  syntax error, unexpected ';' in /home/perucell/public_html/sissmas/Vistas/cobranzas/imprimirf.php on line 138
+[20-Aug-2017 04:52:55] PHP Parse error:  syntax error, unexpected ';' in /home/perucell/public_html/sissmas/Vistas/cobranzas/imprimirf.php on line 138
+[20-Aug-2017 18:43:25] PHP Parse error:  syntax error, unexpected ';' in /home/perucell/public_html/sissmas/Vistas/cobranzas/imprimirf.php on line 138

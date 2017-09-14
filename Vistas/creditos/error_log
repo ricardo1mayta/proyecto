@@ -1,0 +1,36 @@
+[20-Aug-2017 16:33:58] PHP Parse error:  syntax error, unexpected '}' in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 42
+[20-Aug-2017 16:34:12] PHP Parse error:  syntax error, unexpected '}' in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 42
+[20-Aug-2017 16:36:06] PHP Parse error:  syntax error, unexpected '}' in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 42
+[20-Aug-2017 16:38:35] PHP Notice:  Undefined index:  idus in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 7
+[20-Aug-2017 16:38:35] PHP Notice:  Undefined index:  monto in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 8
+[20-Aug-2017 16:38:35] PHP Notice:  Undefined index:  idcre in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 9
+[20-Aug-2017 16:38:35] PHP Notice:  Undefined index:  descripcion in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 10
+[20-Aug-2017 16:38:35] PHP Notice:  Undefined index:  img in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 17
+[20-Aug-2017 16:38:35] PHP Notice:  Undefined index:  img in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 19
+[20-Aug-2017 16:40:34] PHP Notice:  Undefined index:  idus in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 7
+[20-Aug-2017 16:40:34] PHP Notice:  Undefined index:  monto in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 8
+[20-Aug-2017 16:40:34] PHP Notice:  Undefined index:  idcre in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 9
+[20-Aug-2017 16:40:34] PHP Notice:  Undefined index:  descripcion in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 10
+[20-Aug-2017 16:40:34] PHP Notice:  Undefined index:  img in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 17
+[20-Aug-2017 16:40:34] PHP Notice:  Undefined index:  img in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 19
+[20-Aug-2017 16:41:23] PHP Notice:  Undefined index:  idus in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 7
+[20-Aug-2017 16:41:23] PHP Notice:  Undefined index:  monto in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 8
+[20-Aug-2017 16:41:23] PHP Notice:  Undefined index:  idcre in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 9
+[20-Aug-2017 16:41:23] PHP Notice:  Undefined index:  descripcion in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 10
+[20-Aug-2017 16:41:23] PHP Notice:  Undefined index:  img in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 11
+[20-Aug-2017 16:41:23] PHP Notice:  Undefined index:  img in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 17
+[20-Aug-2017 16:41:23] PHP Notice:  Undefined index:  img in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 19
+[20-Aug-2017 16:44:58] PHP Notice:  Undefined index:  idus in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 7
+[20-Aug-2017 16:44:58] PHP Notice:  Undefined index:  monto in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 8
+[20-Aug-2017 16:44:58] PHP Notice:  Undefined index:  idcre in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 9
+[20-Aug-2017 16:44:58] PHP Notice:  Undefined index:  descripcion in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 10
+[20-Aug-2017 16:44:58] PHP Notice:  Undefined index:  img in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 11
+[20-Aug-2017 16:44:58] PHP Notice:  Undefined index:  img in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 17
+[20-Aug-2017 16:44:58] PHP Notice:  Undefined index:  img in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 19
+[20-Aug-2017 16:46:23] PHP Notice:  Undefined variable: msg in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 35
+[20-Aug-2017 17:03:52] PHP Notice:  Undefined variable: msg in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 34
+[20-Aug-2017 17:10:21] PHP Notice:  Undefined variable: msg in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 34
+[20-Aug-2017 17:10:32] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/perucell/public_html/sissmas/Modelo/creditos/creditos.php on line 63
+[20-Aug-2017 17:18:10] PHP Notice:  Undefined variable: msg in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 34
+[20-Aug-2017 17:18:26] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/perucell/public_html/sissmas/Modelo/creditos/creditos.php on line 63
+[20-Aug-2017 17:20:59] PHP Notice:  Undefined variable: msg in /home/perucell/public_html/sissmas/Vistas/creditos/abonar.php on line 34
